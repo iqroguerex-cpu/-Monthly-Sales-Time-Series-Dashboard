@@ -1,0 +1,12 @@
+date,store,product,units_sold,unit_price
+2024-01-05,Store_A,Laptop,5,800
+2024-01-12,Store_A,Phone,10,500
+2024-02-03,Store_A,Laptop,3,800
+2024-02-20,Store_A,Tablet,6,300
+2024-03-15,Store_A,Phone,8,500
+2024-01-07,Store_B,Laptop,4,800
+2024-01-18,Store_B,Tablet,7,300
+2024-02-10,Store_B,Phone,9,500
+2024-02-25,Store_B,Laptop,2,800
+2024-03-05,Store_B,Tablet,5,300
+2024-03-22,Store_B,Phone,6,500
